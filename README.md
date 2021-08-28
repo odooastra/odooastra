@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @odooastra
+- 👀 I’m interested in odoo coding
+- 🌱 I’m currently learning python/javascript
+- 💞️ I’m looking to collaborate on odoo custom modules
+- 📫 How to reach me odooastra@gmail.com
